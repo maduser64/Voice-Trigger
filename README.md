@@ -1,6 +1,5 @@
 # Voice Trigger
-
-##This was currently under Planning we'll get back soon
+## This was currently under Planning we'll get back soon
 
 
 
